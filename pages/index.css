@@ -37,3 +37,18 @@
 @import url(../blocks/advantages/advantages.css);
 @import url(../blocks/advantages/advantages__icon/advantages__icon.css);
 @import url(../blocks/advantages/advantages__text/advantages__text.css);
+
+@import url(../blocks/benefits/benefits.css);
+@import url(../blocks/benefits/benefits__header/benefits__header.css);
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__image/card__image.css);
+@import url(../blocks/card-text/card-text.css);
+@import url(../blocks/card-text/__description/card-text__description.css);
+@import url(../blocks/card-text/__header/card-text__header.css);
+
+@import url(../blocks/details/details.css);
+@import url(../blocks/details-container/details-container.css);
+
+@import url(../blocks/kit/kit.css);

@@ -20,3 +20,20 @@
 @import url(../blocks/request-call/request-call.css);
 @import url(../blocks/request-call/request-call__call/request-call__call.css);
 @import url(../blocks/request-call/request-call__working-hours/request-call__working-hours.css);
+
+@import url(../blocks/main-screen/main-screen.css);
+@import url(../blocks/main-screen/main-screeen__image/main-screeen__image.css);
+@import url(../blocks/main-screen-info/main-screen-info.css);
+@import url(../blocks/main-screen-info/main-screen-info__header/main-screen-info__header.css);
+@import url(../blocks/main-screen-info/main-screen-info__header/main-screen-info__header_italic/main-screen-info__header_italic.css);
+@import url(../blocks/main-screen-info/main-screen-info__subheader/main-screen-info__subheader.css);
+@import url(../blocks/main-buttons/main-buttons.css);
+@import url(../blocks/main-buttons/main-buttons__choose-smokehouse/main-buttons__choose-smokehouse.css);
+
+@import url(../blocks/add-options/add-options.css);
+@import url(../blocks/add-options/add-options__button/add-options__button.css);
+@import url(../blocks/add-options/add-options__text/add-options__text.css);
+
+@import url(../blocks/advantages/advantages.css);
+@import url(../blocks/advantages/advantages__icon/advantages__icon.css);
+@import url(../blocks/advantages/advantages__text/advantages__text.css);

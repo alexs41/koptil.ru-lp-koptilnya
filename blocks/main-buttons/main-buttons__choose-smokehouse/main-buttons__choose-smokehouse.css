@@ -1,0 +1,18 @@
+.main-buttons__choose-smokehouse {
+    width: 380px;
+    height: 95px;
+    color: #ffffff;
+    font-size: 24px;
+    font-family: 'Fira Sans',Arial,sans-serif;
+    line-height: 1.55;
+    font-weight: 700;
+    border-radius: 5px;
+    background-color: #151b21;
+    border-color: transparent;
+    border-style: solid;
+    transition: background-color 0s ease-in-out, color 0s ease-in-out, border-color 0s ease-in-out;
+
+}
+.main-buttons__choose-smokehouse:hover {
+    background-color: #e65000;;
+}

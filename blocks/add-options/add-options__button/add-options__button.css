@@ -1,0 +1,11 @@
+.add-options__button {
+    width: 70px;
+    height: 70px;
+    background: transparent url('../../../images/plus-button.svg') no-repeat center;
+    border: none;
+    transition: .5s;
+}
+
+.add-options__button:hover {
+    scale: 1.2;
+}

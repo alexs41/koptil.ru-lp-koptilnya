@@ -1,0 +1,7 @@
+.main-screen {
+    display: flex;
+    flex-direction: row;
+    max-width: 1160px;
+    margin: 0 auto;
+        
+}

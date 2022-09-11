@@ -1,0 +1,6 @@
+.contacts {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items:flex-start;
+}

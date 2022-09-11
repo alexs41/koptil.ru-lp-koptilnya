@@ -1,0 +1,8 @@
+.phone-numbers__number {
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 1.125rem;
+    font-family: 'Fira Sans',Arial,sans-serif;
+    line-height: 1;
+    font-weight: 700;
+}

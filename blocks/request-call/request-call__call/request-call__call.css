@@ -1,0 +1,9 @@
+.request-call__call {
+    text-decoration: none;
+    color: #151b21;
+    font-size: 1rem;
+    font-family: 'Fira Sans',Arial,sans-serif;
+    line-height: 1;
+    font-weight: 700;
+    border-bottom: 1px solid #151b21;
+}

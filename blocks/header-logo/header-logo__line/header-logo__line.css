@@ -1,0 +1,14 @@
+.header-logo__line {
+    background-color: #151b21;
+    background-position: center center;
+    border-color: transparent;
+    border-style: solid;
+    display: table-cell;
+    vertical-align: middle;
+    
+    height: 100%;
+    -webkit-text-size-adjust: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}

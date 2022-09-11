@@ -1,0 +1,9 @@
+.root {
+    background-color: #dfdfdf;
+    /* max-width: 1200px; */
+    /* выше установили ограничение по максимальной ширине */
+    margin: 0 auto;
+    /* выше для экранов больше 1600px отцентрировали весь контент */
+    font-family: 'FiraSans', 'Inter', Arial, sans-serif;
+    color: #151b21;
+}

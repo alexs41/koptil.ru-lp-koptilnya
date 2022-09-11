@@ -1,0 +1,18 @@
+.header-logo__phrase { 
+    margin: 0;
+    padding: 0;
+    border-left:1px solid #151b21; 
+    padding-left: 30px;
+    font-size: .75rem;
+    font-family: 'Fira Sans',Arial,sans-serif;
+    line-height: 1.55;
+    font-weight: 400;
+    }
+
+/* .header-logo__phrase:before{ 
+    content: " ";
+    background: #151b21;
+    width: 1px;
+    height: 100%;
+    float: left;
+    } */

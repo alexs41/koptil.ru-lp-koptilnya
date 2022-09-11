@@ -1,0 +1,16 @@
+.header-logo__logo {
+    background-image: url(../../../images/KOPTIL_logo_bez_podp.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 170px;
+    height: 34px;
+    margin-right: 30px;
+  }
+
+  /* @media screen and (max-width: 750px) {
+    /* стили для планшета */
+    /* .header__logo {
+      width: 142px;
+      height: 42px;
+    }
+} */ 

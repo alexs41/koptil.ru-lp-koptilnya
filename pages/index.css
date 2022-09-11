@@ -1,0 +1,22 @@
+@import url(../vendor/normalize.css);
+@import url(../fonts/fonts.css);
+@import url(../blocks/root/root.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/header__logo/header__logo.css);
+@import url(../blocks/header-logo/header-logo.css);
+@import url(../blocks/header-logo/header-logo__line/header-logo__line.css);
+@import url(../blocks/header-logo/header-logo__logo/header-logo__logo.css);
+@import url(../blocks/header-logo/header-logo__phrase/header-logo__phrase.css);
+
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/menu__link/menu__link.css);
+
+@import url(../blocks/contacts/contacts.css);
+@import url(../blocks/phone-numbers/phone-numbers.css);
+@import url(../blocks/phone-numbers/phone-numbers__number/phone-numbers__number.css);
+@import url(../blocks/contacts/contacts__call-button/contacts__call-button.css);
+
+@import url(../blocks/request-call/request-call.css);
+@import url(../blocks/request-call/request-call__call/request-call__call.css);
+@import url(../blocks/request-call/request-call__working-hours/request-call__working-hours.css);

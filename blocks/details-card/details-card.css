@@ -1,0 +1,5 @@
+.details-card {
+    display: grid;
+    gap: 55px;
+    grid-template-columns: repeat(2, 1fr);
+}

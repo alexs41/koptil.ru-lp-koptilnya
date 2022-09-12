@@ -1,4 +1,5 @@
 .details-container {
+    padding-top: calc((.07870170682 * 100vw)/2);
     margin: 0 auto;
     max-width: 1160px;
 }

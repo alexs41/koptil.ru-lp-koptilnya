@@ -1,0 +1,8 @@
+.details-card-text__description {
+    font-size: 18px;
+    font-family: 'Fira Sans',Arial,sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    width: 72%;
+    margin: 1em auto;
+}

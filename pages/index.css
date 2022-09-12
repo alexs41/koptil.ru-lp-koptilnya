@@ -2,6 +2,10 @@
 @import url(../fonts/fonts.css);
 @import url(../blocks/root/root.css);
 
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/span-italic/span-italic.css);
+
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/header__logo/header__logo.css);
 @import url(../blocks/header-logo/header-logo.css);
@@ -50,5 +54,12 @@
 
 @import url(../blocks/details/details.css);
 @import url(../blocks/details-container/details-container.css);
+@import url(../blocks/details-card/details-card.css);
+@import url(../blocks/details-card/__image/details-card__image.css);
+@import url(../blocks/details-card-text/details-card-text.css);
+@import url(../blocks/details-card-text/__header/details-card-text__header.css);
+@import url(../blocks/details-card-text/__line/details-card-text__line.css);
+@import url(../blocks/details-card-text/__description/details-card-text__description.css);
+
 
 @import url(../blocks/kit/kit.css);

@@ -2,5 +2,5 @@
     max-width: 1160px;
     margin: 0 auto;
     position: relative;
-    min-height: 100vh;
+    padding-bottom: calc(.07870170682 * 100vw);
 }

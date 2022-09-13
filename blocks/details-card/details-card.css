@@ -1,5 +1,11 @@
 .details-card {
     display: grid;
-    gap: 55px;
+    gap: 40px;
     grid-template-columns: repeat(2, 1fr);
+}
+.details-card:nth-child(odd) {
+    margin-bottom: -90px;
+}
+.details-card:nth-child(even) {
+    margin-bottom: 40px;
 }

@@ -1,4 +1,4 @@
-.main-buttons__choose-smokehouse {
+.button-choose-smokehouse {
     width: 380px;
     height: 95px;
     color: #ffffff;
@@ -13,6 +13,6 @@
     transition: background-color 0s ease-in-out, color 0s ease-in-out, border-color 0s ease-in-out;
 
 }
-.main-buttons__choose-smokehouse:hover {
+.button-choose-smokehouse:hover {
     background-color: #e65000;;
 }

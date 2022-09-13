@@ -1,3 +1,6 @@
 .kit {
-    height: 300px;
+    padding-top: calc(.07870170682 * 100vw);
+    max-width: 1160px;
+    /* height: 300px; */
+    margin: 0 auto;
 }

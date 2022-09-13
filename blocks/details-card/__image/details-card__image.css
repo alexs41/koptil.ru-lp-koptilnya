@@ -1,3 +1,9 @@
 .details-card__image {
-    width: 100%;
+    width: 120%;
+    right: 0;
+    position: relative;
+}
+
+.details-card__image:nth-child(odd) {
+    right: 112px;
 }

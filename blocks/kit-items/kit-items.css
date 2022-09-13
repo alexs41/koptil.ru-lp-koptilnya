@@ -1,0 +1,6 @@
+.kit-items {
+    width: 100%;
+    display: grid;
+    gap: 55px;
+    grid-template-columns: repeat(3, 1fr);
+}

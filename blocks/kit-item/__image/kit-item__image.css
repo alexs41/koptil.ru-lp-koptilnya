@@ -1,0 +1,4 @@
+.kit-item__image {
+    object-fit: cover;
+    width: 100%;
+}

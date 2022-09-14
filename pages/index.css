@@ -2,6 +2,7 @@
 @import url(../fonts/fonts.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/button-choose-smokehouse/button-choose-smokehouse.css);
+@import url(../blocks/div-button/div-button.css);
 
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-title/_white/section-title_white.css);
@@ -70,3 +71,12 @@
 @import url(../blocks/kit-item/__image/kit-item__image.css);
 @import url(../blocks/kit-item/__title/kit-item__title.css);
 @import url(../blocks/kit-item/__description/kit-item__description.css);
+
+@import url(../blocks/bag/bag.css);
+@import url(../blocks/bag/__image/bag__image.css);
+@import url(../blocks/bag-container/bag-container.css);
+@import url(../blocks/bag-container/__title/bag-container__title.css);
+@import url(../blocks/bag-container/__subtitle/bag-container__subtitle.css);
+
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__container/video__container.css);

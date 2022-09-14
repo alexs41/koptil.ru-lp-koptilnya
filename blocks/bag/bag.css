@@ -1,0 +1,11 @@
+.bag {
+    padding-top: 80px;
+    /* padding-top: calc(.07870170682 * 100vw); */
+    max-width: 1160px;
+    /* height: 300px; */
+    margin: 0 auto;
+    /* width: 100%; */
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(2, 1fr);
+}
